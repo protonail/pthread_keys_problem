@@ -1,0 +1,14 @@
+### JetBrains template
+
+## Directory-based project format:
+.idea/
+
+## File-based project format:
+*.ipr
+*.iws
+*.iml
+
+### Maven template
+
+target/
+src/main/resources/darwin/
